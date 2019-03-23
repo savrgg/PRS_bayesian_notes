@@ -1,2 +1,3 @@
 # stan_models
-This repo has test for stan models
+
+version v0.0.1

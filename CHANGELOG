@@ -1,0 +1,5 @@
+v0.0.1 - 22-03-2019 - Hello Stan!
+- initialize packrat
+- create initial lock file
+- add changelog, gitignore and .Rproj
+- add hello stan: a simple linear regression
